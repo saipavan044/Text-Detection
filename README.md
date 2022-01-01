@@ -1,6 +1,6 @@
 <!-- TABLE OF CONTENTS -->
-# AttendanceMS
-Attendance Management System
+# TextDetection
+Text Detection
   <h2 style="display: inline-block">Table of Contents</h2>
   <ol>
     <li>
@@ -11,7 +11,6 @@ Attendance Management System
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact Details</a></li>
-    <li><a href="#outcome">Project Outcome</a></li>
   </ol>
 
 
@@ -19,68 +18,77 @@ Attendance Management System
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-“Attendance Management System” is the system that will manage the attendance of class teachers and students. This system is the online system which is a web-based application that is develop by using PHP and MYSQL. This system will monitor the daily attendance of the system. This tool can be access from anywhere around the globe. Online Attendance Management System is an innovative way to monitor and track the attendance of students/employees.
+An Android text scanner app, This app can extract text from images, and you can also copy the text.
+The Android app was created using the ML Kit. The app will use the ML Kit Text Recognition on-device API to recognise text from a real-time camera feed. It uses the ML Kit Text Recognition API to recognise the text from the image.
 
-Detailed explanation of the project is given below.
 
-In the home page the users can see the Log in form an d the sign in form .To enter in to system the teachers and the students should sign up and then they can log in to the system.After the log in system the users go to their profile dashboard where they can enter their classes that need to attend .Student had their own page where they can add the details to attend the course ,student should know the code number of the attending class.Teachers can add the class that they teaches by filling all the details that are needed. The class code number is impotent so that the student can attendant the attendance of the particular classes.They can logout at any time.
 
 ### Built With
 
-Front-end: HTML,CSS
+IDE: Android Studio
 
-Back-end: PHP,JavaScript
+Language : Java
 
-Database: MySQL
+API : ML Kit Text Recognition API
+
+
+Dependencies: 
+implementation 'com.google.android.gms:play-services-vision:19.0.0'
+implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
+
+
+Links:
+Vision: https://developers.google.com/ml-kit/vision/text-recognition
+Image Cropper: https://github.com/ArthurHub/Android-Image-Cropper
+
+ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and Android apps in a powerful yet easy-to-use package. Whether you're new or experienced in machine learning, you can easily implement the functionality you need in just a few lines of code.
+
+ML Kit makes it easy to apply ML techniques in your apps by bringing Google's ML technologies, such as Mobile Vision, and TensorFlow Lite, together in a single SDK. Whether you need the power of real-time capabilities of Mobile Vision's on-device models, or the flexibility of custom TensorFlow Lite models, ML Kit makes it possible with just a few lines of code.
+
+This application will walk you through simple steps to text recognition from a real-time camera feed.This application will also highlight best practises around using CameraX with ML Kit APIs.
 
 <!-- USAGE  -->
-## Usage
+## Application
 
+#### **Screenshot of the App Interface**: 
 
-#### **Home Page**: Lets take a dive into our portal!
-
-![home](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Home%20Page.png)
-
-#### **Steps for registration of a student**: 
-
-1. Student Dashboard
+1. Screenshot 1
   
-     ![student](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Student%20Dashboard.png)
+     ![Screenshot_1](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Student%20Dashboard.png)
 
-2.  Faculty Login
+2. Screenshot 2
     
-     ![login](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Login.png)
+     ![Screenshot_2](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Login.png)
 
-#### **Registration for Faculty**: 
-
-3. Faculty Registration
+3. Screenshot 3
    
-     ![registration](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Registration.png)
+     ![Screenshot_3](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Registration.png)
 
-#### **Faculty Dashboard**: 
-
-4. Faculty Dashboard
+4. Screenshot 4
    
-     ![dashboard](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Dashboard.png)
+     ![Screenshot_4](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Dashboard.png)
 
-5.  Profile Modifications
+5.  Screenshot 5
     
-     ![profile](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Profile%20Updates.png)
+     ![Screenshot_5](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Profile%20Updates.png)
 
-
-6. Classes Modifications
+6. Screenshot 6
     
-     ![modification](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Classes%20Modifications.png)
+     ![Screenshot_6](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Classes%20Modifications.png)
 
-#### **Attendance Statistics**: 
-
-7. Statistics
+7. Screenshot 7
     
-     ![statistics](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
+     ![Screenshot_7](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
   
-8. Logout
+8. Screenshot 8
   
-   - It return's you to the home page.
+     ![Screenshot_8](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
+
+9. Screenshot 9
+
+     ![Screenshot_9](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
+
+
 
 
 
@@ -94,16 +102,3 @@ Mail - saipavan044@gmail.com
 LinkedIn  - https://www.linkedin.com/in/saipavan044/
 
 Instagram - https://www.instagram.com/satya_044/
-
-## Project Outcome
-
-Attendance-System
-=================
-
-The project is meant to create an advanced attendance taking system to help teachers, 
-students and college administration by automating the entire process. It is designed keeping 
-scalability and code- reusability in mind, which means that the same project can be altered 
-by changing few variables to get desired results. Furthermore, there’s scope of adding more 
-functionality without disturbing any of the existing one. This is made possible by using 
-Object Oriented Programming, a Modular for designing web service, and following large 
-parts of MVC model. This allows us to extend the project to mobile applications and other environments.
