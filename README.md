@@ -55,39 +55,39 @@ This application will walk you through simple steps to text recognition from a r
 
 1. Screenshot 1
   
-     ![Screenshot_1](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Student%20Dashboard.png)
+     ![Screenshot_1](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/1.jpg)
 
 2. Screenshot 2
     
-     ![Screenshot_2](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Login.png)
+     ![Screenshot_2](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/2.jpg)
 
 3. Screenshot 3
    
-     ![Screenshot_3](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Registration.png)
+     ![Screenshot_3](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/3.jpg)
 
 4. Screenshot 4
    
-     ![Screenshot_4](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Faculty%20Dashboard.png)
+     ![Screenshot_4](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/4.jpg)
 
 5.  Screenshot 5
     
-     ![Screenshot_5](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Profile%20Updates.png)
+     ![Screenshot_5](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/5.jpg)
 
 6. Screenshot 6
     
-     ![Screenshot_6](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Classes%20Modifications.png)
+     ![Screenshot_6](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/6.jpg)
 
 7. Screenshot 7
     
-     ![Screenshot_7](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
+     ![Screenshot_7](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/7.jpg)
   
 8. Screenshot 8
   
-     ![Screenshot_8](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
+     ![Screenshot_8](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/8.jpg)
 
 9. Screenshot 9
 
-     ![Screenshot_9](https://github.com/saipavan044/Attendance-Management-System/blob/main/doc/Statistics.png)
+     ![Screenshot_9](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/9.jpg)
 
 
 
