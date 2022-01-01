@@ -55,7 +55,9 @@ This application will walk you through simple steps to text recognition from a r
 
 1. Screenshot 1
   
-     ![Screenshot_1](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/1.jpg?raw=true"Optional Title")
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/1.jpg" width="400px"</img> 
+     </div>
 
 2. Screenshot 2
     
