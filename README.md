@@ -20,6 +20,7 @@
 An Android text scanner app, This app can extract text from images, and you can also copy the text.
 The Android app was created using the ML Kit. The app will use the ML Kit Text Recognition on-device API to recognise text from a real-time camera feed. It uses the ML Kit Text Recognition API to recognise the text from the image.
 
+Recognition of text in real-time, even in offline mode.
 
 
 ### Built With
@@ -47,6 +48,11 @@ Image Cropper: https://github.com/ArthurHub/Android-Image-Cropper
 ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and Android apps in a powerful yet easy-to-use package. Whether you're new or experienced in machine learning, you can easily implement the functionality you need in just a few lines of code.
 
 ML Kit makes it easy to apply ML techniques in your apps by bringing Google's ML technologies, such as Mobile Vision, and TensorFlow Lite, together in a single SDK. Whether you need the power of real-time capabilities of Mobile Vision's on-device models, or the flexibility of custom TensorFlow Lite models, ML Kit makes it possible with just a few lines of code.
+
+Analyze structure of text Supports detection of words/elements, lines and paragraphs
+Identify language of text Identifies the language of the recognized text
+Small application footprint On Android, the API is offered as an unbundled library through Google Play Services
+Real-time recognition Can recognize text in real-time on a wide range of devices
 
 This application will walk you through simple steps to text recognition from a real-time camera feed.This application will also highlight best practises around using CameraX with ML Kit APIs.
 
