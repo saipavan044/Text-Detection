@@ -1,6 +1,5 @@
 <!-- TABLE OF CONTENTS -->
-# TextDetection
-Text Detection
+# Text Detection
   <h2 style="display: inline-block">Table of Contents</h2>
   <ol>
     <li>
