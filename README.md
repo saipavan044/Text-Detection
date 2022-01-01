@@ -55,7 +55,7 @@ This application will walk you through simple steps to text recognition from a r
 
 1. Screenshot 1
   
-     ![Screenshot_1](Screenshots/1.jpg?raw=true"Optional Title")
+     ![Screenshot_1](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/1.jpg?raw=true"Optional Title")
 
 2. Screenshot 2
     
