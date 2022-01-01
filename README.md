@@ -61,36 +61,52 @@ This application will walk you through simple steps to text recognition from a r
 
 2. Screenshot 2
     
-     ![Screenshot_2](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/2.jpg)
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/2.jpg" width="400px"</img> 
+     </div>
 
 3. Screenshot 3
    
-     ![Screenshot_3](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/3.jpg)
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/3.jpg" width="400px"</img> 
+     </div>
 
 4. Screenshot 4
    
-     ![Screenshot_4](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/4.jpg)
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/4.jpg" width="400px"</img> 
+     </div>
 
 5.  Screenshot 5
     
-     ![Screenshot_5](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/5.jpg)
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/5.jpg" width="400px"</img> 
+     </div>
 
 6. Screenshot 6
     
-     ![Screenshot_6](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/6.jpg)
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/6.jpg" width="400px"</img> 
+     </div>
 
 7. Screenshot 7
     
-     ![Screenshot_7](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/7.jpg)
-  
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/7.jpg" width="400px"</img> 
+     </div>
+     
 8. Screenshot 8
   
-     ![Screenshot_8](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/8.jpg)
-
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/8.jpg" width="400px"</img> 
+     </div>
+     
 9. Screenshot 9
 
-     ![Screenshot_9](https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/9.jpg)
-
+     <div align="center">
+    <img src="https://github.com/saipavan044/Text-Detection/blob/main/Screenshots/9.jpg" width="400px"</img> 
+     </div>
+     
 
 
 
