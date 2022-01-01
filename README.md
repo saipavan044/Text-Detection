@@ -39,6 +39,7 @@ implementation 'com.theartofdev.edmodo:android-image-cropper:2.8.0'
 
 Links:
 Vision: https://developers.google.com/ml-kit/vision/text-recognition
+
 Image Cropper: https://github.com/ArthurHub/Android-Image-Cropper
 
 ML Kit is a mobile SDK that brings Google's machine learning expertise to Android and Android apps in a powerful yet easy-to-use package. Whether you're new or experienced in machine learning, you can easily implement the functionality you need in just a few lines of code.
